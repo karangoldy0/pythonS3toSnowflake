@@ -1,3 +1,4 @@
+import pandas as pd
 import snowflake.connector as sf
 import json
 import boto3
